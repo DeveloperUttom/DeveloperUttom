@@ -11,9 +11,9 @@ I’m a Front End Web developer who is passionate about making error-free websit
 - 🌱 I’m currently learning Javascript <br>
 - 💬 Ask me about Web Development </p> 
 :coffee: &emsp;Connect with me!
-![Profile views](https://gpvc.arturio.dev/DeveloperUttom)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/developeruttom) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/developeruttom) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developeruttom/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/developeruttom) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/developeruttom) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developeruttom@gmail.com)
 
+![Profile views](https://gpvc.arturio.dev/DeveloperUttom)
 Skills: HTML / CSS / REACT / JS /
 
 
