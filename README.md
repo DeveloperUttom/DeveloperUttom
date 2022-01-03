@@ -1,7 +1,7 @@
 
 <img src='https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/s960x960/245765244_564901441263007_1329549493790539217_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeF4wtuaqZ9_vkTh-4GpAadDBktSY2vSaxsGS1Jja9JrG1hpcFHiAUL39YH1kXcOL310u1tAxb5Wflbc0Bh5IRbg&_nc_ohc=lVjGmbDRnTAAX8_Ze3M&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT_ZGbdGcSYS4FCR9DDn2znezN6iBSPyCd-ka4jYRU9coA&oe=61D7B107' alt='github'>
-<h1 align="center">Hi there 👋, I'm Uttom Sutradhar</h1>
-<h3 align="center">A passionate Fullstack web developer from Bangladesh</h3>
+<h1>Hi there 👋, I'm Uttom Sutradhar</h1>
+<h3>A passionate Fullstack web developer from Bangladesh</h3>
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
